@@ -6,6 +6,10 @@ After graduating as a Mechatronics Engineer at the Federal University of Uberlâ
 
 My main research interests are robust control, model predictive control (MPC), robust estimation (using sliding modes, and interval techniques) and model reduction.
 
+## Research
+
+1. [A general MPC parser using CasADi, with examples](https://github.com/reis-alex/mpc) 
+
 ## Publications
 
 International journals:
