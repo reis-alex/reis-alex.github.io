@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Alex dos Reis de Souza, PhD
 description: Research Engineer
-logo: https://github.com/reis-alex/reis-alex.github.io/blob/main/images/Alex.png?raw=true
+logo: /images/Alex.png
+google_analytics:
 show_downloads: false
