@@ -10,7 +10,7 @@ My main research interests are robust control, model predictive control (MPC), r
 
 International journals:
 
-1. A. Reis de Souza, P. Vuillemin, D. Quero, C. [Poussot-Vassal. Gust Load Alleviation Using Reduced-Order Aeroelastic Models and Observer-Based Robust Control](https://doi.org/10.2514/1.G007153). Journal of Guidance, Control, and Dynamics (2023). 
+1. A. Reis de Souza, P. Vuillemin, D. Quero, C. Poussot-Vassal. [Gust Load Alleviation Using Reduced-Order Aeroelastic Models and Observer-Based Robust Control](https://doi.org/10.2514/1.G007153). Journal of Guidance, Control, and Dynamics (2023). 
 2. A. Reis de Souza, D. Efimov, T. Raissi and X. Ping. [Robust output feedback model predictive control for constrained linear systems via interval observers](10.1016/j.automatica.2021.109951 ). Automatica, Vol 135 (2021).
 3. A. Reis de Souza, D. Efimov and T. Raissi. [Robust output feedback MPC for LPV systems using interval observers.](10.1109/TAC.2021.3099449). IEEE Transactions on Automatic Control
 4. A. Reis de Souza, D. Efimov and T. Raissi. [Robust output feedback MPC for time-delayed systems using interval observers](10.1002/rnc.5874). International Journal of Robust and Nonlinear Control (2021). 
