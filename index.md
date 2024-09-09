@@ -20,10 +20,10 @@ International journals:
 
 International conferences:
 
-A. Reis de Souza, P. Vuillemin, D. Quero, C. Poussot-Vassal. [Gust Load Alleviation Using Reduced-Order Aeroelastic Models and Observer-Based Robust Control](https://doi.org/10.2514/1.G007153 ). Journal of Guidance, Control, and Dynamics (2023). 
-A. Reis de Souza, D. Efimov, T. Raissi and X. Ping. [Robust output feedback model predictive control for constrained linear systems via interval observers](10.1016/j.automatica.2021.109951). Automatica, Vol 135 (2021). 
-A. Reis de Souza, D. Efimov and T. Raissi. [Robust output feedback MPC for LPV systems using interval observers](10.1109/TAC.2021.3099449 ). IEEE Transactions on Automatic Control (2021).
-A. Reis de Souza, D. Efimov and T. Raissi. [Robust output feedback MPC for time-delayed systems using interval observers](10.1002/rnc.5874). International Journal of Robust and Nonlinear Control (2021).
-A. Reis de Souza, D. Efimov, A. Polyakov, J-L. Gouzé and E. Cinquemani. [State observation in microbial consortia: a case study on a synthetic producer-cleaner consortium](10.1002/rnc.5945 ). International Journal of Robust and Nonlinear Control (2021).
-A. Reis de Souza, D. Efimov, A. Polyakov and J-L. Gouzé. [Robust stabilization of competing species in the chemostat](10.1016/j.jprocont.2020.01.010 ). Journal of Process Control 87, pages 138-146, (2019). 
-A. Reis de Souza, D. Efimov, A. Polyakov and J-L. Gouzé. [Robust adaptive estimation in the competitive chemostat](10.1016/j.compchemeng.2020.107030). Computers & Chemical Engineering 142, page 107030, (2020).  
+1. A. Reis de Souza, P. Vuillemin, D. Quero, C. Poussot-Vassal. [Gust Load Alleviation Using Reduced-Order Aeroelastic Models and Observer-Based Robust Control](https://doi.org/10.2514/1.G007153 ). Journal of Guidance, Control, and Dynamics (2023). 
+2. A. Reis de Souza, D. Efimov, T. Raissi and X. Ping. [Robust output feedback model predictive control for constrained linear systems via interval observers](10.1016/j.automatica.2021.109951). Automatica, Vol 135 (2021). 
+3. A. Reis de Souza, D. Efimov and T. Raissi. [Robust output feedback MPC for LPV systems using interval observers](10.1109/TAC.2021.3099449 ). IEEE Transactions on Automatic Control (2021).
+4. A. Reis de Souza, D. Efimov and T. Raissi. [Robust output feedback MPC for time-delayed systems using interval observers](10.1002/rnc.5874). International Journal of Robust and Nonlinear Control (2021).
+5. A. Reis de Souza, D. Efimov, A. Polyakov, J-L. Gouzé and E. Cinquemani. [State observation in microbial consortia: a case study on a synthetic producer-cleaner consortium](10.1002/rnc.5945). International Journal of Robust and Nonlinear Control (2021).
+6. A. Reis de Souza, D. Efimov, A. Polyakov and J-L. Gouzé. [Robust stabilization of competing species in the chemostat](10.1016/j.jprocont.2020.01.010). Journal of Process Control 87, pages 138-146, (2019). 
+7. A. Reis de Souza, D. Efimov, A. Polyakov and J-L. Gouzé. [Robust adaptive estimation in the competitive chemostat](10.1016/j.compchemeng.2020.107030). Computers & Chemical Engineering 142, page 107030, (2020).  
